@@ -1,0 +1,6 @@
+Student Grade Generator.
+A program that prompts a user to input student marks for various subjects.
+The subjects are Maths, Physics, Computer, Programming, Chemistry.
+It computes their marks by adding(total) and outputs them.
+It computes their marks by percentge  by taking (total /500) * 100 and outputs them
+It then gives their grades and a remark on the grade.
