@@ -4,6 +4,7 @@ const  prompt = require("readline").createInterface({
     input: process.stdin,
     output: process.stdout
 })
+
 const points = (speed) => {
     //If the speed is less than 70, it should print "Ok"
     //If the speed is grater than 70, and by what range it should print the demerit points
